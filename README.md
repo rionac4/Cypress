@@ -1,2 +1,2 @@
 # Cypress
-Cypress learning -Modern Automation Testing from Scratch + Frameworks
+Cypress learning - Modern Automation Testing from Scratch + Frameworks
